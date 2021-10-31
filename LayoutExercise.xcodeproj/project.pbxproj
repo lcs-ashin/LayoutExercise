@@ -13,6 +13,7 @@
 		8A5C4219272EF080000AFCE4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8A5C4218272EF080000AFCE4 /* Preview Assets.xcassets */; };
 		8AE63417272F120A00297C5F /* LayoutTwoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AE63416272F120A00297C5F /* LayoutTwoView.swift */; };
 		8AE63419272F159F00297C5F /* LayoutThreeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AE63418272F159F00297C5F /* LayoutThreeView.swift */; };
+		8AE6341B272F1BA600297C5F /* LayoutFourView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AE6341A272F1BA600297C5F /* LayoutFourView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		8A5C4218272EF080000AFCE4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		8AE63416272F120A00297C5F /* LayoutTwoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LayoutTwoView.swift; sourceTree = "<group>"; };
 		8AE63418272F159F00297C5F /* LayoutThreeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LayoutThreeView.swift; sourceTree = "<group>"; };
+		8AE6341A272F1BA600297C5F /* LayoutFourView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LayoutFourView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,10 +59,11 @@
 			children = (
 				8A5C4211272EF079000AFCE4 /* LayoutExerciseApp.swift */,
 				8A5C4213272EF079000AFCE4 /* ContentView.swift */,
-				8A5C4215272EF07F000AFCE4 /* Assets.xcassets */,
-				8A5C4217272EF080000AFCE4 /* Preview Content */,
 				8AE63416272F120A00297C5F /* LayoutTwoView.swift */,
 				8AE63418272F159F00297C5F /* LayoutThreeView.swift */,
+				8AE6341A272F1BA600297C5F /* LayoutFourView.swift */,
+				8A5C4215272EF07F000AFCE4 /* Assets.xcassets */,
+				8A5C4217272EF080000AFCE4 /* Preview Content */,
 			);
 			path = LayoutExercise;
 			sourceTree = "<group>";
@@ -143,6 +146,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8AE6341B272F1BA600297C5F /* LayoutFourView.swift in Sources */,
 				8AE63417272F120A00297C5F /* LayoutTwoView.swift in Sources */,
 				8AE63419272F159F00297C5F /* LayoutThreeView.swift in Sources */,
 				8A5C4214272EF079000AFCE4 /* ContentView.swift in Sources */,
