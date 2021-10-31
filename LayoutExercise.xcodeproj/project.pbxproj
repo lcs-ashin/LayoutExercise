@@ -11,6 +11,7 @@
 		8A5C4214272EF079000AFCE4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A5C4213272EF079000AFCE4 /* ContentView.swift */; };
 		8A5C4216272EF07F000AFCE4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8A5C4215272EF07F000AFCE4 /* Assets.xcassets */; };
 		8A5C4219272EF080000AFCE4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8A5C4218272EF080000AFCE4 /* Preview Assets.xcassets */; };
+		8AE63417272F120A00297C5F /* LayoutTwoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AE63416272F120A00297C5F /* LayoutTwoView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		8A5C4213272EF079000AFCE4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		8A5C4215272EF07F000AFCE4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8A5C4218272EF080000AFCE4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		8AE63416272F120A00297C5F /* LayoutTwoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LayoutTwoView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				8A5C4213272EF079000AFCE4 /* ContentView.swift */,
 				8A5C4215272EF07F000AFCE4 /* Assets.xcassets */,
 				8A5C4217272EF080000AFCE4 /* Preview Content */,
+				8AE63416272F120A00297C5F /* LayoutTwoView.swift */,
 			);
 			path = LayoutExercise;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8AE63417272F120A00297C5F /* LayoutTwoView.swift in Sources */,
 				8A5C4214272EF079000AFCE4 /* ContentView.swift in Sources */,
 				8A5C4212272EF079000AFCE4 /* LayoutExerciseApp.swift in Sources */,
 			);
